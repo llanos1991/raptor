@@ -1,0 +1,3 @@
+ANCHO = 1024
+ALTO  = 768
+COLOR = "#D4CFD5"
